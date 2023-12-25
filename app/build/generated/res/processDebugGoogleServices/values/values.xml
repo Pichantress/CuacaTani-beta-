@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">233475664725-prbadcbfcoqamdjfuuh25gd9qfl4o6pq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">233475664725</string>
+    <string name="google_api_key" translatable="false">AIzaSyDrmdMz33vUl3vCSPxSN7AQxgB4CpDhisw</string>
+    <string name="google_app_id" translatable="false">1:233475664725:android:bce645d76752414c059ddc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDrmdMz33vUl3vCSPxSN7AQxgB4CpDhisw</string>
+    <string name="google_storage_bucket" translatable="false">cuacatani-80679.appspot.com</string>
+    <string name="project_id" translatable="false">cuacatani-80679</string>
+</resources>

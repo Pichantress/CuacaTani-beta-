@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233475664725",
+    "project_id": "cuacatani-80679",
+    "storage_bucket": "cuacatani-80679.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233475664725:android:bce645d76752414c059ddc",
+        "android_client_info": {
+          "package_name": "com.capstone.cuacatani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233475664725-prbadcbfcoqamdjfuuh25gd9qfl4o6pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrmdMz33vUl3vCSPxSN7AQxgB4CpDhisw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233475664725-prbadcbfcoqamdjfuuh25gd9qfl4o6pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

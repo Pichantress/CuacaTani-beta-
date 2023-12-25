@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="brokenWhite">#FFF8EB</color>
+    <color name="green_100">#526C45</color>
+    <color name="green_200">#CEF0BD</color>
+    <color name="green_300">#728D64</color>
+    <color name="grey">#9A9A99</color>
+    <color name="grey_100">#C4BDBD</color>
+    <color name="grey_200">#838383</color>
+    <color name="grey_300">#4A4A4A</color>
+    <color name="orens">#D1A365</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="fab_margin">16dp</dimen>
+    <string name="about">About</string>
+    <string name="acc">Doesn’t have an account?</string>
+    <string name="already">Already have an account?</string>
+    <string name="app_name">CuacaTani</string>
+    <string name="c_corn">Corn</string>
+    <string name="c_fruit">Fruit</string>
+    <string name="c_veg">Vegetables</string>
+    <string name="condition">Sunny</string>
+    <string name="create">Create account</string>
+    <string name="cuaca_tani">CUACA TANI</string>
+    <string name="date">Date</string>
+    <string name="day">Day, </string>
+    <string name="default_web_client_id" translatable="false">233475664725-prbadcbfcoqamdjfuuh25gd9qfl4o6pq.apps.googleusercontent.com</string>
+    <string name="derajat">\u00B0C</string>
+    <string name="email">Email</string>
+    <string name="email_invalid">Invalid email address</string>
+    <string name="ex_email">example@gmail.com</string>
+    <string name="ex_pass">min 8 char</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="fruit_1">Anggur</string>
+    <string name="fruit_2">Apel</string>
+    <string name="fruit_3">Jeruk</string>
+    <string name="fruit_4">Melon</string>
+    <string name="fruit_5">Pepaya</string>
+    <string name="fruit_6">Semangka</string>
+    <string name="fruit_7">Mangga</string>
+    <string name="gcm_defaultSenderId" translatable="false">233475664725</string>
+    <string name="google">Login with Google</string>
+    <string name="google_api_key" translatable="false">AIzaSyDrmdMz33vUl3vCSPxSN7AQxgB4CpDhisw</string>
+    <string name="google_app_id" translatable="false">1:233475664725:android:bce645d76752414c059ddc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDrmdMz33vUl3vCSPxSN7AQxgB4CpDhisw</string>
+    <string name="google_storage_bucket" translatable="false">cuacatani-80679.appspot.com</string>
+    <string name="hello">"Hello, "</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="how">How to Plant</string>
+    <string name="howText">
+        Choose the right tomato variety, start seeds indoor,preparing oil soil that should be slightly acidic to neutral (pH 6.0-7.0), choose a sunny location,Fertilizing\n
+    </string>
+    <string name="humadity">Humadity</string>
+    <string name="km">10 %</string>
+    <string name="login">Login\n</string>
+    <string name="login_now">Login Now</string>
+    <string name="logout">Log Out</string>
+    <string name="lokasi">Malang</string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="mb">700 Mb</string>
+    <string name="name">Name</string>
+    <string name="namePlant">Tomato</string>
+    <string name="names">Avi</string>
+    <string name="next">Next</string>
+    <string name="no">No</string>
+    <string name="no_conection">No internet connection</string>
+    <string name="notes">Please connect it and try again</string>
+    <string name="or">or</string>
+    <string name="panen">90 days</string>
+    <string name="password">Password</string>
+    <string name="password_length">Minimum 8 char password</string>
+    <string name="photo">Photo plant</string>
+    <string name="plant_1">Padi</string>
+    <string name="plant_2">Kacang Hijau</string>
+    <string name="plant_3">Kopi</string>
+    <string name="plant_4">Lentil Hitam</string>
+    <string name="plant_5">Lentil</string>
+    <string name="plant_6">Jagung</string>
+    <string name="plants">Plants</string>
+    <string name="plantt">List Plant</string>
+    <string name="predict">Predict</string>
+    <string name="pressure">Pressure</string>
+    <string name="previous">Previous</string>
+    <string name="project_id" translatable="false">cuacatani-80679</string>
+    <string name="req">Requirements</string>
+    <string name="reqText">
+        • Area penanaman memiliki curah hujan yang ideal
+        \n• Memperoleh paparan sinar matahari secara langsung (min. 8 jam per hari)
+        \n• pH tanah 5,5 hingga 7,5
+        \n• Kemiringan tanah kurang dari 8%
+        \n• Punya ketersediaan air yang cukup
+    </string>
+    <string name="searchbar2_hint">Find Your City</string>
+    <string name="searchbar3_hint">Search plant</string>
+    <string name="searchbar_hint">Find Plant</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="sign_alert">Account with %1$s is activated. Lets login it!!</string>
+    <string name="signup">Sign up</string>
+    <string name="slogan">plant now or later</string>
+    <string name="start">start</string>
+    <string name="suhu">33</string>
+    <string name="tab_corn">Corn</string>
+    <string name="tab_fruit">Fruit</string>
+    <string name="tab_text_1">This is tab 1</string>
+    <string name="tab_text_2">This is tab 2</string>
+    <string name="tab_text_3">This is tab 2</string>
+    <string name="tab_veg">Vegetable</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="tomato">Tomato\n</string>
+    <string name="unsuccess_text">Unsuccessfull to load..</string>
+    <string name="veg_1">Kacang Panjang</string>
+    <string name="veg_2">Kacang Polong</string>
+    <string name="veg_3">Buncis</string>
+    <string name="veg_4">Kapas</string>
+    <string name="wind">Wind</string>
+    <string name="yeah">Yeah!!</string>
+    <string name="yes">Yes</string>
+    <string name="your_plants">Your Plants</string>
+    <style name="Base.Theme.CuacaTani" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/green_300</item>
+        <item name="colorOnPrimary">@color/orens</item>
+        <item name="colorSecondary">@color/white</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+    <style name="RoundCorner" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20dp</item>
+        <item name="color">@color/white</item>
+    </style>
+    <style name="SplashTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/petani</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimary</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="TabLayoutTextStyle">
+        <item name="android:textSize">15sp</item>
+        <item name="fontFamily">@font/poppins_medium</item>
+    </style>
+    <style name="Theme.CuacaTani" parent="Base.Theme.CuacaTani"/>
+</resources>

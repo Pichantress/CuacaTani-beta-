@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_buncis.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\buncis.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\font_poppins_semibold.ttf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\font\\poppins_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_lentil.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\lentil.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_melon.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\melon.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_img_login.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\img_login.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\animator_btn_anim.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\animator\\btn_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_unknown.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\unknown.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_padiii.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\padiii.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_bottom_navigation_background.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\bottom_navigation_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_humadity.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\humadity.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_box_huma.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\box_huma.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_line.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\line.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_box_search.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\box_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_haze.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\haze.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_lentil_hitam.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\lentil_hitam.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_box_weather.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\box_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_bottom_nav_item_color_state.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\bottom_nav_item_color_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\font_poppins_bold.ttf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\font\\poppins_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_kacang_panjang.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\kacang_panjang.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\layout_activity_predict.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\activity_predict.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_kacang_polong.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\kacang_polong.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\layout_fragment_corn.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\fragment_corn.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_img_signup.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\img_signup.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\layout_fragment_fruit.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\fragment_fruit.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_anggur.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\anggur.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_kacang_hijau.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\kacang_hijau.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_avatar2.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\avatar2.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\layout_box_list_plant.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\box_list_plant.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_kopi.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\kopi.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_box_list_plants.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\box_list_plants.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_sunny.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_apple.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\apple.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\layout_box_plants.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\box_plants.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\layout_fragment_veg.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\fragment_veg.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_rain.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\rain.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_btn_google_background.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\btn_google_background.xml"
+    },
+    {
+        "merged": "com.capstone.cuacatani.app-merged_res-5:/layout_activity_predict.xml.flat",
+        "source": "com.capstone.cuacatani.app-main-7:/layout/activity_predict.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\layout_activity_plants.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\activity_plants.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_pepaya.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\pepaya.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\font_neucha.ttf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\font\\neucha.ttf"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_drop.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\drop.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_petani.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\petani.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_snow.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\snow.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_jeruk.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\jeruk.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_pressed_bg.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\pressed_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_ic_google.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\ic_google.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\menu_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\menu\\bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_box_search2.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\box_search2.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_plants.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\plants.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_tomato2.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\tomato2.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_about.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_pressure.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\pressure.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_jagung.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\jagung.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_tomato.jpg.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\tomato.jpg"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_temperature.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\temperature.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_cloudy.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\drawable_home.png.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-merged_res-5:\\font_poppins_medium.ttf.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\font\\poppins_medium.ttf"
+    }
+]

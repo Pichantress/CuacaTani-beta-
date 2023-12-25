@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-mergeDebugResources-4:\\layout\\fragment_fruit.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\fragment_fruit.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-mergeDebugResources-4:\\layout\\activity_about.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-mergeDebugResources-4:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-mergeDebugResources-4:\\layout\\box_list_plant.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\box_list_plant.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-mergeDebugResources-4:\\layout\\activity_welcome.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-mergeDebugResources-4:\\layout\\activity_plants.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\activity_plants.xml"
+    },
+    {
+        "merged": "com.capstone.cuacatani.app-mergeDebugResources-4:/layout/activity_predict.xml",
+        "source": "com.capstone.cuacatani.app-main-7:/layout/activity_predict.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-mergeDebugResources-4:\\layout\\activity_predict.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\activity_predict.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-mergeDebugResources-4:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-mergeDebugResources-4:\\layout\\box_plants.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\box_plants.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-mergeDebugResources-4:\\layout\\fragment_corn.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\fragment_corn.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-mergeDebugResources-4:\\layout\\fragment_veg.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\fragment_veg.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-mergeDebugResources-4:\\layout\\activity_detail.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-mergeDebugResources-4:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.2\\com.capstone.cuacatani.app-main-7:\\layout\\activity_login.xml"
+    }
+]
